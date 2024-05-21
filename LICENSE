@@ -1,68 +1,46 @@
-NON-COMMERCIAL SOFTWARE LICENSE AGREEMENT
+OPEN SOURCE SOFTWARE LICENSE AGREEMENT
 
-This Non-Commercial Software License Agreement ("Agreement") is between Real Time Logic LLC, a California limited liability company ("RTL"), and you, the entity or individual entering into this Agreement ("User"). The RTL software and documentation provided to User ("Software") are licensed and are not sold. This Agreement is part of a package that includes RTL Software and certain electronic and/or written materials. This Agreement covers your permitted download, installation, and use of the RTL licensed materials and the RTL Software.
+This Open Source Software License Agreement ("Agreement") is between Faizeen Hoque, the entity or individual entering into this Agreement ("Licensor"), and the end user ("User"). The software and documentation provided by Licensor ("Software") are licensed under open-source terms.
 
-BY "INSTALLING" THE SOFTWARE YOU ACKNOWLEDGE AND AGREE THAT YOU HAVE READ ALL OF THE TERMS AND CONDITIONS OF THIS AGREEMENT, UNDERSTAND THEM, AND AGREE TO BE LEGALLY BOUND BY THEM. IF YOU DO NOT AGREE WITH THE TERMS OF THIS AGREEMENT, YOU MAY NOT INSTALL OR USE THE RTL LICENSED MATERIALS OR THE RTL SOFTWARE.
+BY INSTALLING, COPYING, MODIFYING, OR DISTRIBUTING THE SOFTWARE, YOU ACKNOWLEDGE AND AGREE THAT YOU HAVE READ ALL OF THE TERMS AND CONDITIONS OF THIS AGREEMENT, UNDERSTAND THEM, AND AGREE TO BE LEGALLY BOUND BY THEM. IF YOU DO NOT AGREE WITH THE TERMS OF THIS AGREEMENT, YOU MAY NOT INSTALL, COPY, MODIFY, OR DISTRIBUTE THE SOFTWARE.
 
-1. SCOPE
+LICENSE
 
-   - This Agreement describes the licensing of the Software provided to User on a non-commercial basis.
-   - If User desires to use the Software on a commercial basis, it must separately purchase a commercial-use license from RTL.
+- Subject to the terms of this Agreement, Licensor grants User a worldwide, royalty-free, non-exclusive, perpetual license to:
+  a. Use, copy, modify, and distribute the Software for any purpose other than commercial resale.
+  b. Make derivative works of the Software, provided proper attribution is given to Licensor.
 
-2. LICENSE
+RESTRICTIONS
 
-   - Subject to the other terms of this Agreement, RTL grants User a perpetual, free-of-charge, non-exclusive, non-transferable, non-commercial license to:
-     a. Use the Software only (i) in an educational institution environment, (ii) in a personal capacity, or (iii) for non-commercial, evaluation purposes in User’s internal business operations.
-     b. Make derivative works of the source code snippets provided with the Software, and to operate and distribute such derivative works, but only when combined with RTL Software.
-     c. Make one copy of the Software for archival and backup purposes.
+- User is specifically prohibited from:
+  a. Reselling the Software for commercial purposes.
+  b. Removing or altering any copyright, trademark, or attribution notices included in the Software.
+  c. Using Licensor's name, logo, or trademarks to endorse or promote products derived from the Software without prior written permission.
 
-3. RESTRICTIONS
+PROPRIETARY RIGHTS AND CONFIDENTIALITY
 
-   - User is specifically prohibited from:
-     a. Transferring, assigning, sublicensing, or renting the Software or using it in any type of software service provider or outsourcing environment where the functionality of the Software is provided to a third party.
-     b. Causing or permitting the reverse engineering, decompiling, disassembly, or translation of the Software to discover the source code or create a functional equivalent.
-     c. Evaluating or using, or facilitating the evaluation or use, of the Software for the purpose of competing with RTL.
+- Licensor retains all ownership and intellectual property rights in the Software.
 
-4. ATTRIBUTION REQUIREMENT
+DISCLAIMER OF WARRANTIES
 
-   - User agrees to provide proper attribution to Real Time Logic LLC whenever using the Software in any derivative works, documentation, or public presentations.
+- THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
 
-5. PROPRIETARY RIGHTS AND MUTUAL CONFIDENTIALITY
+TERMINATION
 
-   - Proprietary Rights:
-     - The Software, workflow processes, user interface, designs, know-how and other technologies provided by RTL as part of the Software are the proprietary property of RTL and its licensors, and all right, title and interest in and to such items, including all associated intellectual property rights, remain only with RTL and its licensors. The Software is protected by applicable copyright and other intellectual property laws. User may not remove any product identification, copyright, trademark or other notice from the Software. Third party contractors of User may use or access the Software, but User will be liable for any breaches of this Agreement by such contractors.
-   - Mutual Confidentiality:
-     - Recipient may not disclose Confidential Information of Discloser to any third party or use the Confidential Information in violation of this Agreement.
-     - Confidential Information means all information that is disclosed to the recipient (Recipient) by the discloser (Discloser), and includes, among other things:
-       - any and all information relating to products or services provided by a Discloser, software code, flow charts, techniques, specifications, development and marketing plans, strategies, and forecasts;
-       - as to RTL the Software and the terms of this Agreement.
+- This Agreement will terminate automatically if User fails to comply with any term herein.
 
-6. DISCLAIMER OF WARRANTIES
+LIMITATION OF LIABILITY
 
-   - THE SOFTWARE IS PROVIDED AS-IS. RTL DISCLAIMS ALL OTHER EXPRESS AND IMPLIED WARRANTIES, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. USER UNDERSTANDS THAT THE SOFTWARE MAY NOT BE ERROR-FREE, AND USE MAY BE INTERRUPTED.
+- IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES.
 
-7. TERMINATION
+GOVERNING LAW
 
-   - Either party may terminate this agreement immediately upon a material breach of the other party. Upon termination of this agreement, User must discontinue using the Software, de-install and destroy or return the Software and all copies, within 5 days. Upon RTL' request, User will provide written certification of such compliance.
+- THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF BANGLADESH, WITHOUT REGARD TO ITS CONFLICT OF LAW PROVISIONS.
 
-8. LIMITATION OF LIABILITY
+ATTRIBUTION REQUIREMENT
 
-   - EXCEPT WHERE THIS EXCLUSION OR RESTRICTION OF LIABILITY WOULD BE VOID OR INEFFECTIVE UNDER APPLICABLE STATUTE OR REGULATION, IN NO EVENT SHALL RTL OR ITS LICENSORS BE LIABLE FOR INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES (INCLUDING LOST PROFITS OR SAVINGS) WHETHER BASED ON CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, EVEN IF RTL OR ITS LICENSORS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT SHALL RTL OR ITS LICENSORS' LIABILITY UNDER THIS AGREEMENT EXCEED THE AMOUNT PAID BY USER FOR THE RTL SOFTWARE OR SERVICE GIVING RISE TO THE CLAIM. IN THE EVENT THAT NO AMOUNT WAS PAID, RTL SHALL HAVE NO LIABILITY FOR ANY DAMAGES WHATSOEVER.
+- User must provide proper attribution to Licensor whenever using the Software in any derivative works, documentation, or public presentations.
 
-9. CONTROLING LAW
+OTHER TERMS
 
-   - THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED UNDER THE LAWS OF THE STATE OF CALIFORNIA, USA, EXCLUDING CHOICE OF LAW RULES.
-
-10. OTHER TERMS
-
-   a. Entire Agreement.
-   b. Assignment, Transfer and Relocation.
-   c. Independent Contractors.
-   d. Enforceability.
-   e. Survival of Terms and Force Majeure.
-   f. Audit.
-   g. Export Compliance.
-   h. Restricted Rights Notice.
-
-[Signature]
-
+- This Agreement constitutes the entire agreement between the parties concerning the subject matter herein.
